@@ -1,2 +1,3 @@
 this is a demo for jiragit connection
 never made an easy
+easy way
